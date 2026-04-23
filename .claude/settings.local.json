@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//usr/local/bin/**)",
+      "Read(//Users/jaedanpersaud/.nvm/**)",
+      "Bash(export PATH=\"$HOME/.nvm/versions/node/v24.15.0/bin:$PATH\")",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(echo \"started pid $!\")",
+      "Bash(lsof -iTCP -sTCP:LISTEN -P)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(kill 69976)",
+      "Bash(kill 58269)",
+      "Bash(kill 20609)"
+    ]
+  }
+}
