@@ -7,12 +7,12 @@ export default function Footer() {
     <footer className="footer">
       <svg
         className="footer-wave"
-        viewBox="0 0 1440 80"
+        viewBox="0 0 120 10"
         preserveAspectRatio="none"
         aria-hidden="true"
       >
         <path
-          d="M0,40 C240,80 480,0 720,40 C960,80 1200,0 1440,40 L1440,80 L0,80 Z"
+          d="M0,4 Q30,10 60,4 T120,4 L120,0 L0,0 Z"
           fill="currentColor"
         />
       </svg>
